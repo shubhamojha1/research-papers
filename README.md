@@ -1,2 +1,6 @@
 # research-papers
-initial commit
+research-papers/
+├── ai/
+│   ├── seqtoseq/
+│   └── transformers/  
+└── db/ 
